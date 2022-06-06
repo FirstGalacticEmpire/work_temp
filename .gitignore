@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+wiki_data/
+text/
 # C extensions
 *.so
 

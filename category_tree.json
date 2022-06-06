@@ -1,0 +1,70 @@
+{
+    "Historia": {
+        "Historia_wed\u0142ug_epok": {
+            "Biografie_wed\u0142ug_epok_i_okres\u00f3w_historycznych": {
+                "Postacie_baroku": {
+                    "Architekci_barokowi": {
+                        "W\u0142oscy_architekci_barokowi": null
+                    },
+                    "Kompozytorzy_baroku": {
+                        "Austriaccy_kompozytorzy_baroku": null,
+                        "Brytyjscy_kompozytorzy_baroku": null
+                    }
+                },
+                "Postacie_historii_najnowszej": {
+                    "Ludzie_zimnej_wojny": {},
+                    "Ludzie_zwi\u0105zani_z_Czechos\u0142owacj\u0105": {
+                        "Czechos\u0142owacy": null,
+                        "Absolwenci_uczelni_w_Czechos\u0142owacji": null
+                    }
+                }
+            },
+            "Historia_pa\u0144stw_wed\u0142ug_epok": {
+                "Historia_Danii_wed\u0142ug_epok": {
+                    "Dania_w_XVIII_wieku": {},
+                    "Dania_w_XX_wieku": {
+                        "1969_w_Danii": null,
+                        "1970_w_Danii": null
+                    }
+                },
+                "Historia_Francji_wed\u0142ug_epok": {
+                    "Galia_staro\u017cytna": {
+                        "Galia_(prowincja_rzymska)": null
+                    },
+                    "Francja_\u015bredniowieczna": {
+                        "Frankowie": null
+                    }
+                }
+            }
+        },
+        "Historia_wed\u0142ug_kontynent\u00f3w": {
+            "Historia_Afryki": {
+                "Kultury_archeologiczne_Afryki": {},
+                "Afryka_w_XX_wieku": {
+                    "1901_w_Afryce": {},
+                    "1902_w_Afryce": {}
+                }
+            },
+            "Historia_Ameryki_Po\u0142udniowej": {
+                "Ameryka_Po\u0142udniowa_w_XX_wieku": {
+                    "1916_w_Ameryce_Po\u0142udniowej": {
+                        "Copa_Am\u00e9rica_1916": null
+                    },
+                    "1917_w_Ameryce_Po\u0142udniowej": {
+                        "Copa_Am\u00e9rica_1917": null
+                    }
+                },
+                "Ameryka_Po\u0142udniowa_w_XXI_wieku": {
+                    "2001_w_Ameryce_Po\u0142udniowej": {
+                        "2001_w_Argentynie": null,
+                        "2001_w_Brazylii": null
+                    },
+                    "2002_w_Ameryce_Po\u0142udniowej": {
+                        "2002_w_Argentynie": null,
+                        "2002_w_Brazylii": null
+                    }
+                }
+            }
+        }
+    }
+}
